@@ -1,0 +1,16 @@
+{
+  "name": "jquery-dotimeout",
+  "version": "1.0.0",
+  "description": "jQuery doTimeout: Like setTimeout, but better",
+  "homepage": "http://benalman.com/projects/jquery-dotimeout-plugin/",
+  "author": "Ben Alman (http://benalman.com/)",
+  "main": "jquery.ba-dotimeout.js",
+  "license" : "MIT/GPL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cowboy/jquery-dotimeout"
+  },
+  "bugs": {
+    "url": "https://github.com/cowboy/jquery-dotimeout/issues"
+  }
+}
